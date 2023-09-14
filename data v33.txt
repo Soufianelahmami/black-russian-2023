@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"The base spirit of the Black Russian, vodka provides a clean and neutral backdrop for the other flavors in the drink. Premium quality vodka is often preferred to ensure a smooth and enjoyable cocktail ",
+   "photo1":"https://iili.io/JH5E0ve.webp"},
+  {"desc2":"The primary flavoring component, coffee liqueur, adds a rich and slightly sweet coffee flavor to the cocktail. Kahlúa is the most commonly used brand of coffee liqueur, but there are other options available as well","photo2":"https://iili.io/JH5EGTb.webp"},
+  {"desc3":"To make a traditional Black Russian, you simply combine these two ingredients in a rocks glass filled with ice, stir gently, and serve. The result is a deep, dark, and delicious cocktail that's perfect for sipping","photo3":"https://iili.io/JH5E1yu.webp"},
+  {"desc4":"While the classic Black Russian is beloved for its simplicity, bartenders and mixologists in 2023 are constantly finding creative ways to put a modern spin on this timeless cocktail. Here are a few variations that have gained popularity","photo4":"https://iili.io/JH5EMjj.webp"},
+  {"desc5":"o create a White Russian, add a layer of cream or milk to the classic Black Russian. This addition gives the cocktail a creamier texture and a touch of sweetness, making it a dessert-like treat","photo5":"https://iili.io/JH5EXCQ.webp"},
+  {"descd":"Experiment with flavored vodka to add a unique twist to your Black Russian. Options like vanilla vodka, salted caramel vodka, or even chili-infused vodka can take the classic cocktail to new heights","photod":"https://iili.io/JH5EhGV.webp"}
    ]
  
 }
