@@ -45,13 +45,12 @@
 
 },
   "my_data":[
-  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
-   "photo1":"https://iili.io/Ht07B6b.webp"},
-  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.","photo2":"https://iili.io/Ht07fne.webp"},
-  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.","photo3":"https://iili.io/Ht07qMu.webp"},
-  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.","photo4":"https://iili.io/Ht07qMu.webp"},
-  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.","photo5":"https://iili.io/Ht07Ft9.webp"},
-  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ","photod":"https://iili.io/Ht07nFj.webp"}
+  {"desc1":"In the game Sneaky Sasquatch, players take on the role of a mischievous Sasquatch as they navigate various activities while skillfully evading the ever-watchful park authorities. The Sasquatch's primary objectives include sneaking around the park to pilfer picnic baskets, snatch snacks from unsuspecting campers, and rummage through trash cans for tasty treats.", "photo1":"https://iili.io/Jds1Iup.webp"},
+  {"desc2":"Throughout the gameplay experience, players have the opportunity to explore different areas within the park, interact with a diverse cast of characters, and undertake quests and missions. However, they must be cautious, as park rangers are a constant presence, vigilantly searching for the elusive Sasquatch. ","photo2":"https://iili.io/Jds1Rnt.jpg"},
+  {"desc3":"To avoid arousing suspicion, players must employ clever strategies such as donning disguises, skulking through bushes, and using stealthy tactics to remain hidden from view. If, by chance, the Sasquatch is apprehended, the game is not immediately over; instead, players must devise an escape plan to resume their sly activities.","photo3":"https://iili.io/Jds1TwN.jpg"},
+  {"desc4":"As players advance through the game, they can unlock access to new sections of the park, stumble upon secret hiding spots, and unearth concealed treasures","photo4":"https://iili.io/Jds1utI.jpg"},
+  {"desc5":"Sneaky Sasquatch offers a delightful blend of stealth, exploration, and casual gameplay, catering to players of all ages who seek an entertaining and engaging gaming experience.","photo5":"https://iili.io/Jds15MX.webp"},
+  {"descd":"In the charming and whimsical world of Sneaky Sasquatch, players step into the furry shoes of a lovable Sasquatch who thrives on mischief and adventure. Set in a sprawling and vibrant park, the game invites players to embrace their inner trickster and embark on a variety of entertaining escapades.","photod":"https://iili.io/Jds1Iup.webp"}
    ]
  
 }
